@@ -1,4 +1,4 @@
-# neovim-go-init
+# neovim go init
 
 ## Require
 
