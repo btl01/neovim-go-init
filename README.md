@@ -10,7 +10,7 @@ gopls <https://github.com/golang/tools/tree/master/gopls>
 ### Linux
 
 ```shell
-mkdir 
+mkdir ~/.config
 git clone https://github.com/btl01/neovim-go-init.git ~/.config/nvim
 ```
 
