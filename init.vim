@@ -124,7 +124,8 @@ call plug#end()
 "-- plug END
 
 let g:coc_global_extensions = [
-		\ 'coc-snippets'
+		\ 'coc-snippets',
+		\ 'coc-go'
 	  \ ]
 
 lua << EOF
